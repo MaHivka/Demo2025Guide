@@ -17,6 +17,7 @@
 3. [Subnet Cheat Sheet](https://www.aelius.com/njh/subnet_sheet.html)
 4. [Subnet Cheat Sheet - freecodecamp](https://www.freecodecamp.org/news/subnet-cheat-sheet-24-subnet-mask-30-26-27-29-and-other-ip-address-cidr-network-references/)
 </details>
+
 ---
 
 ## [Модуль 1]()
