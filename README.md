@@ -11,11 +11,12 @@
 [📂 Ссылка на оценочные материалы в этом репозитории (Актуально на момент 13.11.2024)](https://github.com/MaHivka/Demo2025Guide/blob/main/Оценочные%20материалы/КОД%2009.02.06-1-2025%20Том%201.pdf)
 
 ## Полезные ссылки
+<details>
 1. [Калькулятор IP адреса 1](https://www.calcip.com/)
 2. [Калькулятор IP адреса 2](https://ip-calculator.ru/)
 3. [Subnet Cheat Sheet](https://www.aelius.com/njh/subnet_sheet.html)
 4. [Subnet Cheat Sheet - freecodecamp](https://www.freecodecamp.org/news/subnet-cheat-sheet-24-subnet-mask-30-26-27-29-and-other-ip-address-cidr-network-references/)
-
+</details>
 ---
 
 ## [Модуль 1]()
