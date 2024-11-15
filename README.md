@@ -12,10 +12,10 @@
 
 ## Полезные ссылки
 <details>
-1. [Калькулятор IP адреса 1](https://www.calcip.com/)
-2. [Калькулятор IP адреса 2](https://ip-calculator.ru/)
-3. [Subnet Cheat Sheet](https://www.aelius.com/njh/subnet_sheet.html)
-4. [Subnet Cheat Sheet - freecodecamp](https://www.freecodecamp.org/news/subnet-cheat-sheet-24-subnet-mask-30-26-27-29-and-other-ip-address-cidr-network-references/)
+<br>1. <a href="https://www.calcip.com/">Калькулятор IP адреса 1</a></br>
+<br>2. <a href="https://ip-calculator.ru/">Калькулятор IP адреса 2</a></br>
+<br>3. <a href="https://www.aelius.com/njh/subnet_sheet.html">Subnet Cheat Sheet</a></br>
+<br>4. <a href="https://www.freecodecamp.org/news/subnet-cheat-sheet-24-subnet-mask-30-26-27-29-and-other-ip-address-cidr-network-references/">Subnet Cheat Sheet - freecodecamp</a></br>
 </details>
 
 ---
