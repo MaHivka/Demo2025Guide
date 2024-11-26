@@ -15,9 +15,9 @@
     nmcli con add type vlan con-name <Название подключения> ifname <Название интерфейса> id <Номер VLAN> dev <Имя физ интерфейса, пример: ens3> ip4 <ip адрес инетрфейса/маска> gw4 <ip адрес шлюза>
     ```
     - **3 способ**. NetworkManager GUI:
-    - Добавляем интерфейс
-    - Настраиваем номер VLAN и родительский интерфейс
-    - Настройка ip адреса (Можно оставить DHCP или задать статику)
+    - Добавляем интерфейс ![Добавление интерфейса](https://github.com/MaHivka/Demo2025Guide/blob/main/Модуль%201/VLAN/VLAN_nmGUI_1.png)
+    - Настраиваем номер VLAN и родительский интерфейс ![Настройка VLAN](https://github.com/MaHivka/Demo2025Guide/blob/main/Модуль%201/VLAN/VLAN_nmGUI_2.png)
+    - Настройка ip адреса (Можно оставить DHCP или задать статику) ![Настрйка IP](https://github.com/MaHivka/Demo2025Guide/blob/main/Модуль%201/VLAN/VLAN_nmGUI_3.png)
 
 
 ## Задание 8. Настройка динамической трансляции адресов.
