@@ -7,8 +7,9 @@
 - Основные сведения о настройке коммутатора и выбора реализации разделения на VLAN занесите в отчёт.
 
 1. Настройка VLAN:
-    - 1 способ. nmtui (Заходим в nmtui (установка на альт: apt install NetworkManager-tui)):
-    Дальше делаем по скриншотам
+    - 1 способ. nmtui (установка на альт: apt install NetworkManager-tui):
+    - Добавляем интерфейс ![Добавление интерфейса](https://github.com/MaHivka/Demo2025Guide/blob/main/Модуль%201/VLAN/VLAN_nmtui_1.png)
+    - Настраиваем интерфейс ![Настройка интерфейса](https://github.com/MaHivka/Demo2025Guide/blob/main/Модуль%201/VLAN/VLAN_nmtui_2.png)
 
 
 ## Задание 8. Настройка динамической трансляции адресов.
